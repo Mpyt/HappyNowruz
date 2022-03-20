@@ -1,0 +1,22 @@
+{
+  "name": "happynowruz",
+  "version": "1.0.0",
+  "description": "Happy Persian new year!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpyt/HappyNowruz.git"
+  },
+  "author": "Mohammad Pourfooladi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mpyt/HappyNowruz/issues"
+  },
+  "homepage": "https://github.com/Mpyt/HappyNowruz#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
